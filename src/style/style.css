@@ -1,0 +1,60 @@
+body{
+    background-color: #ccc;
+}
+
+/*Design Page*/
+.myDesign{
+    background-color: #000033;
+    width: 600px;
+    margin-top:5%;
+}
+
+.card{
+    background-color: #00004d;
+}
+
+.myImage{
+    height:180px;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:10%;
+    border-radius:5px;
+    object-fit:cover;
+}
+
+.titles{
+    color:#fff;
+}
+
+.name{
+    align-items:center;
+    padding-left:10%;
+}
+
+.role{
+    padding-left:25%;
+}
+
+.buttons-container{
+    margin-top: 10px;
+}
+
+.btn{
+    width: 100px;
+}
+
+.email{
+    margin-left: 7px;
+}
+
+.linkedin{
+    margin-left: 40px;
+}
+
+.social-img{
+    width:40px;
+    height:30px;
+    object-fit: cover;
+    margin-left: 20px;
+}
